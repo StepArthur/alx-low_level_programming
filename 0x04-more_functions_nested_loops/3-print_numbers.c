@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * _isdigit - Check if a character is a digit
- * @a: The number to be checked
- * Return: 1 for a character that is a digit, 0 for any else
+ * print numbers - Print the numbers from 0 to 9 
+ * Return: The numbers 0 to 9
  */
 
 void print_numbers(void)
